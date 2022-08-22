@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\Seminar2.csproj": {}
+    "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\1.2\\1.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\Seminar2.csproj": {
+    "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\1.2\\1.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\Seminar2.csproj",
-        "projectName": "Seminar2",
-        "projectPath": "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\Seminar2.csproj",
+        "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\1.2\\1.2.csproj",
+        "projectName": "1.2",
+        "projectPath": "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\1.2\\1.2.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\obj\\",
+        "outputPath": "C:\\Users\\Сергей\\Desktop\\project2\\Seminar2\\1.1\\1.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config"
